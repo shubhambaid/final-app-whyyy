@@ -15,13 +15,10 @@ export default class Navbar extends Component {
           <Link to="/homepage" className="nav-link has-text-weight-bold">Home</Link>
           </li>
           <li className="navbar-item">
-          <Link to="/user" className="nav-link has-text-weight-bold">form</Link>
+          <Link to="/user" className="nav-link has-text-weight-bold">Sell kabad now!</Link>
           </li>
           <li className="navbar-item">
-          <Link to="/create" className="nav-link has-text-weight-bold">zys</Link>
-          </li>
-          <li className="navbar-item">
-          <Link to="/orders" className="nav-link has-text-weight-bold">zys</Link>
+          <Link to="/create" className="nav-link has-text-weight-bold">About Us</Link>
           </li>
         </ul>
         </div>
